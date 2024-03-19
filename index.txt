@@ -1,4 +1,4 @@
-#center, bold, monospace size 5
+#center, bold, monospace, size 5
 r1verpuppy
 #size 2, bold
 ------------
@@ -7,6 +7,7 @@ hello
 #left, normal, size 1
 hello, i like making games
 i also like river otters
-##some games
+#size 2, bold
+some games
 [soup factory 1v1, https://r1verpuppy.github.io/soup/index.html]
 
