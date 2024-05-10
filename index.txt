@@ -10,4 +10,6 @@ i also like river otters
 #size 2, bold
 some games
 [soup factory 1v1, https://r1verpuppy.github.io/soup/index.html]
+[fishing game demo, https://r1verpuppy.github.io/boatgame/]
+[janky flappy bird, https://r1verpuppy.github.io/flap]
 
