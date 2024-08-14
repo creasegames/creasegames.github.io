@@ -12,4 +12,5 @@ some games
 [soup factory 1v1, https://creasegames.github.io/soup/index.html]
 [fishing game demo, https://creasegames.github.io/boatgame/]
 [janky flappy bird, https://creasegames.github.io/flap]
-[itch.io, https://r1verpuppy.itch.io]
+[dog pong, https://creasegames.github.io/pong-dog]
+[itch.io, https://giraf-in-orbit.itch.io]
