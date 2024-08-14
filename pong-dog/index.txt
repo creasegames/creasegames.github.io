@@ -1,0 +1,12 @@
+#monospace, center, bold, size 3
+pong but w weird dog
+#size 1, normal
+---------------------------
+this is pong but with a weird dog in a hat
+---------------------------
+how to play:
+move mouse to move paddle
+press r to reset ball
+press g to generate new blocks
+if dog catches ball dog will bring ball to paddle
+when ball hits block dog's hat changes color
