@@ -1,0 +1,31 @@
+#monospace, center, bold, size 3
+soup factory 1v1
+#size 1, normal
+---------------------------
+chaotic cooking party game
+---------------------------
+---------------------------
+#bold
+how to play:
+#normal
+p1: wasd p2:arrows
+
+#bold
+main gameplay:
+#normal
+pick up stuff by running into it
+chop carrots with chopper -> chopped carrots to pot
+chop chicken with chopper
+-> chicken bits to pot
+-> bone to broth pot ->broth to pot
+bring soup to orange truck
+
+#bold
+sabotoge:
+#normal
+press down on other player's kitchen tools to temporarily break them
+
+#bold
+stealing:
+#normal
+you can take stuff from other player while they're holding it
